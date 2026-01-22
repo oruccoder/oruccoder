@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎I am a Web Developer with a passion for Science<br>📮Shoot me an Email or add me on Linkedin
+😎I am a Frontend Developer with a passion for Science<br>📮Shoot me an Email or add me on Linkedin
 
 
 ## 🌐 Socials:
